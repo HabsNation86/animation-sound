@@ -1,7 +1,7 @@
 canvas {
     width: 100%;
     height:100%;
-    background: black;
+    background: rgb(43, 4, 4);
 }
 
 /* used to expand body to 100% of screen */
